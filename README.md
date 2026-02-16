@@ -2,7 +2,7 @@
     <h1>DBusBundle</h1>
 </center>
 
-<img src="./.resources/screenshit.png"></img>
+<img src="./.resources/image.png"></img>
 
 # Usage
 
